@@ -1,0 +1,42 @@
+ "name": "CodingKing",
+  "short_name": "CodingKing",
+  "start_url": "https://codingkingweb.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "description": "Creative Coding Blog - HTML CSS &amp; JavaScript",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4XC76GIjSnR8wrVNEy0PH9zYE1nKTfehx2VGn5rGZ_9WpqUoaQd_LDHCKr9ZCrZ8zXzzL1uvspvIALrTNLsIXbnJsdfyUwtpgCF_mY0JYFsI_1pTaVzUEFAjOTdrxYl2KRzgRSThyeiCzUVmh2kkJTeizBYadqYktx7NxHBhm0sQgnvkVtIFHu3C-/s1600/32.png' rel='apple-touch-icon",
+    "sizes": "32x32",
+    "type": "image/png",
+    "density": "0.75"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiwJN4CqCEN7E4UgYtcduGMaggCjLhxFF4r91FPuRnOBNaou0Xbmo-aRK0qQPnf3ooT4-l5HIz40XHoCp61dmBQ2cwtAfYlwjpKI1ER6IrfbCgoDsrGLZkgnbE-9fytlFKhQ5GDQPIhdT30EHGFr-wnyV-c2Pow_UQYipMre6oYp4LFpch8fAFqYAA/s1600/48.png' rel='apple-touch-icon' rel='apple-touch-icon",
+    "sizes": "48x48",
+    "type": "image/png",
+    "density": "1.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6_gF0GW3ganB_jXt5LfiOCACzEFMPp2irugrAYRAxvplnJC57--65eTl9T0gVqxCLcFs5E3wCFmIXSHwbtgYs9aTKRMmFJIxP4y3cFHNUpfT_LyMv2mRMPDxehY-PUOD4JtdYocifupT3ibc8PWGIsobzfx5XYoDSqwBKSobVzUzw9P8Sx36KIdLq/s1600/72.png' rel='apple-touch-icon",
+    "sizes": "72x72",
+    "type": "image/png",
+    "density": "1.5"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGewBS6O8oO58xVxXRllCF2yDhM6_mt9h-Dg_ZcE7O4dEfaR3m3LXy1zbWQZgimi2Sq9GWAUHEG3ozU_iwTzh_AWDFbbZ4EawSn-3zA_RwL_2nVYXceUOwFu5a6vj8S_XYEnUNjtUsrfqqn-_U0nRMDMv3qJ3UgsUyxvNeYXYz6w7-G35oQjP4iZWY/s1600/codingking.png",
+    "sizes": "96x96",
+    "type": "image/png",
+    "density": "2.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnVduumXRUG7sTeKBP_f2Fq2OMZLsCliVUfhE5tKsqUOSq7gc14kv-LG-rsc6r8UWCiOsysM82NQOkGr3pgcgq8WV7pLt1GcbBqTP1jeCEDznmKGKwTZCTwDGEq49I2hitokTdWdEInIhdcSVDtWMvsfUtFy3oCxUvNtDuKSl-L2L3UNhUfwA0FBSV/s1600/144.png' rel='apple-touch-icon",
+    "sizes": "144x144",
+    "type": "image/png",
+    "density": "3.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKLJGbMO3GL37JThYRCWIwElmJm5iRpQzWEkDRI4ZvyDMzdIDmvytU-zI0byYP5FNQri0SZfyg1Dbw81b0x6_AXmUiETXNOKXUePAIkLx038AVNXCUYNA-NCslpa57pZ_0eM3MJZhryGDQ5SQGr84YcfLZ68DSCPwCowgiCfD0wODLBzvs3Sn2WnVc/s1600/codingking.png' rel='apple-touch-icon",
+    "sizes": "192x192",
+    "type": "image/png",
+    "density": "4.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4yDrMqTS7qiZgxhbTqv0aWBURz0tvBGuGkYndeBxkR0Lv5Hc4AoqRJ4xBIK8RoIeGVnrJ1gqrfUGbpthLztaFLHJoQMqFmR5nKEkh6wviNkVFUAm7kkhP2eEZFtb5ulwcSICgMZbp_jL9eUR9AgoaN_-uKUFTNwo0PqidJdDYYSORv31ZxCUdkbZS/s320/512.png' rel='apple-touch-icon",
+    "sizes": "512x512",
+    "type": "image/png",
+    "density": "5.0"
